@@ -266,7 +266,7 @@ export const Navbar: React.FC = () => {
           </div>
         </div>
       )}
-
+      
       {/* Walkthrough Component */}
       <Walkthrough
         steps={walkthroughSteps}
